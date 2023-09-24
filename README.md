@@ -14,3 +14,9 @@ Activity 1: A screenshot of the virtual environment created and flask imported
 Activity 2: A screenshot of the Flask application with a dynamic route
 ![Activity 2 Screenshot](Screenshots/Activity_2_1.png)
 ![Activity 2 Screenshot](Screenshots/Activity_2_2.png)
+
+***
+
+Activity 3: A screenshot of the Flask application with the 3 elements
+![Activity 3 Screenshot](Screenshots/Activity_3_1.png)
+![Activity 3 Screenshot](Screenshots/Activity_3_2.png)

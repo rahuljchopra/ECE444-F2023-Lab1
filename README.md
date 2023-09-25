@@ -28,3 +28,4 @@ Activity 4: Screenshots of the Flask application with the name and email inputs
 ![Activity 4 Screenshot](Screenshots/Activity_4_2.png)
 ![Activity 4 Screenshot](Screenshots/Activity_4_3.png)
 ![Activity 4 Screenshot](Screenshots/Activity_4_4.png)
+![Activity 4 Screenshot](Screenshots/Activity_4_5.png)

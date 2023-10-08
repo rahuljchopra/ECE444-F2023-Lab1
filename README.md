@@ -6,5 +6,5 @@ This repo is a clone of https://github.com/miguelgrinberg/flasky
 
 ***
 
-Activity 2: Screenshot for Activity 2 - Docker Version
+Activity 2: Screenshot of Docker Version
 ![Activity 2 Screenshot](Screenshots/Activity_2.png)

@@ -8,3 +8,8 @@ This repo is a clone of https://github.com/miguelgrinberg/flasky
 
 Activity 2: Screenshot of Docker Version
 ![Activity 2 Screenshot](Screenshots/Activity_2.png)
+
+***
+
+Activity 3: Screenshot of the updated webpage
+![Activity 3 Screenshot](Screenshots/Activity_3.png)
